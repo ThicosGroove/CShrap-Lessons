@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\bin\Debug\netcoreapp3.1\Herança e Polimo 2.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Herança e Polimo 2\Exemplo 2\obj\Debug\netcoreapp3.1\Herança e Polimo 2.genruntimeconfig.cache

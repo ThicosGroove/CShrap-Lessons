@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\bin\Debug\netcoreapp3.1\Abstracts class.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 3 CSharp - Herança e Polimo\Herança e Polimo\Classe e Método Abstratos\Abstracts class\obj\Debug\netcoreapp3.1\Abstracts class.genruntimeconfig.cache
