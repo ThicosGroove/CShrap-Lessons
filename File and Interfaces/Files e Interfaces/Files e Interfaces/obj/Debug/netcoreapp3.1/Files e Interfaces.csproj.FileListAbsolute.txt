@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\bin\Debug\netcoreapp3.1\Files e Interfaces.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\C# Aulas\Aula 4 CSharp - File e Interfaces\Files e Interfaces\Files e Interfaces\obj\Debug\netcoreapp3.1\Files e Interfaces.genruntimeconfig.cache
