@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\Delegates\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
