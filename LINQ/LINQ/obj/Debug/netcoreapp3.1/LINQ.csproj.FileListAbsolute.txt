@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache
