@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\bin\Debug\netcoreapp3.1\LINQ Exercico 2.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 2\LINQ Exercico 2\obj\Debug\netcoreapp3.1\LINQ Exercico 2.genruntimeconfig.cache

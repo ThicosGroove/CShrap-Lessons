@@ -1,0 +1,13 @@
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.exe
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.deps.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.runtimeconfig.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.runtimeconfig.dev.json
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\bin\Debug\netcoreapp3.1\LINQ Exercício 1.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.csprojAssemblyReference.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.AssemblyInfoInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.AssemblyInfo.cs
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.csproj.CoreCompileInputs.cache
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.dll
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.pdb
+C:\0 - Thiago\Programas\Projetos Visual Studio\Repositorio Aulas C#\LINQ\LINQ Exercício 1\LINQ Exercício 1\obj\Debug\netcoreapp3.1\LINQ Exercício 1.genruntimeconfig.cache
