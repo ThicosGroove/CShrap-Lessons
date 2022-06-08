@@ -1,1 +1,1 @@
-SELECT * FROM saleswebmvcappdb.departament;
+SELECT * FROM saleswebmvcappdb.seller;
