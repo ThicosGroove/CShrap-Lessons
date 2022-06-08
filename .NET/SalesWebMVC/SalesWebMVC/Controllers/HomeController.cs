@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SalesWebMVC.Models;
+using SalesWebMvc.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SalesWebMVC.Controllers
+namespace SalesWebMvc.Controllers
 {
     public class HomeController : Controller
     {
@@ -18,7 +18,6 @@ namespace SalesWebMVC.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
-            ViewData["Email"] = "ThicosGroove@gmail.com";
 
             return View();
         }
