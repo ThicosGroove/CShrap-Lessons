@@ -18,10 +18,10 @@ namespace SalesWebMvc.Data
 
         public void Seed()
         {
-            //if (_context.Departament.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
-            //{
-            //    return; //DataBase has been seeded
-            //}
+            if (_context.Departament.Any() || _context.Seller.Any() || _context.SalesRecord.Any())
+            {
+                return; //DataBase has been seeded
+            }
 
             Departament d1 = new Departament(1, "Computers");
             Departament d2 = new Departament(2, "Electronics");
