@@ -12,7 +12,7 @@ namespace SalesWebMvc.Models
         public DateTime BirthDate { get; set; }
         public double BaseSalary { get; set; }
         public Departament Departament { get; set; }
-        public int DepartamentId { get; set; }
+        public int DepartamentId { get; set; } // Garante que o Id não seja nulo
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
 
         public Seller()
